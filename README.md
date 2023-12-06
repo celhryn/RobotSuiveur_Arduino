@@ -24,7 +24,7 @@ Connectez le capteur à ultrasons aux broches spécifiées dans le code (trigPin
 ## Alimentation :
 Alimentez votre robot avec la tension spécifiée (3 à 9 Vcc).
 
-##Téléchargement du code :
+## Téléchargement du code :
 Assurez-vous que votre carte Arduino est correctement connectée à votre ordinateur via le câble USB.
 Ouvrez l'IDE Arduino sur votre ordinateur.
 Copiez le code dans l'IDE Arduino.
